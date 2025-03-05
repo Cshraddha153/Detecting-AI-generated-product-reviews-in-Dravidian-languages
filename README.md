@@ -32,6 +32,11 @@ We utilized the ktrain library to fine-tune the pre-trained transformer models o
 ## 4. Evaluation and Performance Analysis
 The models were evaluated based on accuracy and F1-score to assess their effectiveness in classifying AI-generated and human-written text. Comparative analysis across different models was conducted to determine the best-performing approach.
 
+# Rank List
+### Team Name - MNLP
+1. Rank List of AI-HUMAN generated product review detection in Tamil - [Rank List of AI-HUMAN product review detection in Tamil.pdf](https://github.com/user-attachments/files/19090275/Rank.List.of.AI-HUMAN.product.review.detection.in.Tamil.pdf)
+2. Rank List of AI-HUMAN generated product review detection in Malayalam - [Rank List of AI-HUMAN product review detection in Malayalam.pdf](https://github.com/user-attachments/files/19090291/Rank.List.of.AI-HUMAN.product.review.detection.in.Malayalam.pdf)
+
 # Research Paper
 paper is under review at NAACL 2025
 
