@@ -38,6 +38,7 @@ The models were evaluated based on accuracy and F1-score to assess their effecti
 2. Rank List of AI-HUMAN generated product review detection in Malayalam - [Rank List of AI-HUMAN product review detection in Malayalam.pdf](https://github.com/user-attachments/files/19090291/Rank.List.of.AI-HUMAN.product.review.detection.in.Malayalam.pdf)
 
 # Research Paper
-paper is under review at NAACL 2025
+paper - [AI_Content_Detection.pdf](https://github.com/user-attachments/files/19090398/AI_Content_Detection.pdf)
+
 
 
